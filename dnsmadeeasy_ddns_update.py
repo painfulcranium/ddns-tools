@@ -21,7 +21,7 @@
 # If you find this useful, please drop me a line and let
 # me know how this has helped you :)
 #
-# License: MIT, https://github.com/wyrmiyu/ddns-tools/blob/master/LICENSE
+# License: MIT, https://github.com/painfulcranium/ddns-tools/blob/master/LICENSE
 
 from __future__ import print_function
 
