@@ -1,0 +1,23 @@
+{
+	"dnsmadeeasy.com" : [
+		{
+			"USERNAME": "your_username",
+			"RECORD_PASSWORD": "dns_record_password",
+			"RECORD_IDX": "dns_record_id1",
+			"RECORD_NAME": "recordname1.example.com"
+		},
+		{
+			"USERNAME": "your_username",
+			"RECORD_PASSWORD": "dns_record_password",
+			"RECORD_ID": "dns_record_id2",
+			"RECORD_NAME": "recordname2.example.com"
+		},
+		{
+			"USERNAME": "your_username",
+			"RECORD_PASSWORD": "dns_record_password",
+			"RECORD_ID": "dns_record_id3",
+			"RECORD_NAME": "recordname2.example.com"
+		}
+	]
+}
+

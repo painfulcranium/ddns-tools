@@ -1,0 +1,11 @@
+{
+	"dnsmadeeasy.com" : [
+		{
+			"USERNAME": "your_username",
+			"RECORD_PASSWORD": "dns_record_password",
+			"RECORD_ID": "dns_record_id",
+			"RECORD_NAME": "recordname.example.com"
+		}
+	]
+}
+
