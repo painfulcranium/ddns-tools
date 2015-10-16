@@ -105,8 +105,8 @@ except ValueError:
 if __name__ == '__main__':
 
         parser = argparse.ArgumentParser()
-        parser.add_argument('--jsonConfig', type=str, help='Configuration file in current directory')
-        parser.add_argument('--jsonKey', type=str, help='JSON Dict Key to use')
+        parser.add_argument('--jsonConfig', type=str, help='Configuration file in current directory', required=True)
+        parser.add_argument('--jsonKey', type=str, help='JSON Dict Key to use', required=True)
         args = parser.parse_args()
 
         # file and key arguments

@@ -3,7 +3,7 @@
 		{
 			"USERNAME": "your_username",
 			"RECORD_PASSWORD": "dns_record_password",
-			"RECORD_IDX": "dns_record_id1",
+			"RECORD_ID": "dns_record_id1",
 			"RECORD_NAME": "recordname1.example.com"
 		},
 		{
